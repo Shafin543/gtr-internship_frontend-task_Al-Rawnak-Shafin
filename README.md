@@ -4,7 +4,7 @@
   
   -For Internship.
   
-  -All my codes are here including the UI demonstration and some notes inside the recording.
+  -All my codes are here including the UI demonstration and some notes iare provided in recording.
   
   
   -** I am applying my front end task but I want to work for the >> .NET << team if given the opportunity **
