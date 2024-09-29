@@ -4,7 +4,7 @@
   
   -For Internship.
   
-  -All my codes including the UI demonstration and some notes are provided in following recording,
+  -All my codes including the UI demonstration and some notes are provided in the following recording,
   > https://drive.google.com/file/d/1MSIRggRzaL7_IMKkvCxz1OQ7HzLk-xGu/view?usp=sharing 
   
   
