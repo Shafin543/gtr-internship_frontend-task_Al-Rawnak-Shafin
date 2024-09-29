@@ -1,8 +1,12 @@
 # gtr-internship_frontend-task_Al-Rawnak-Shafin
   -A given task by Genuine Technology and Research LTD.
   
+  
   -For Internship.
   
-  -I am applying my front end task but I want to work for the >> .NET << team if given the opportunity 
+  -All my codes are here including the UI demonstration and some notes inside the recording.
+  
+  
+  -** I am applying my front end task but I want to work for the >> .NET << team if given the opportunity **
   
   -Thank you.
